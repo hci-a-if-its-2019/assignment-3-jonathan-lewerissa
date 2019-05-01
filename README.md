@@ -92,38 +92,27 @@
 03:00 - A: Oke, setelah ini seharusnya akan menunggu status pembayaran berhasil atau tidak
 ```
 ### 4. Feedback and Incidence Analysis
+<!--
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
+-->
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](/img/1.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: #1 at 01:40 - 01:45
+ - **Feedback**: The #1 participant is confused.
+ - **Incidence**: The participant is confused about the function of the page and whether it affects the promo selection.
+ - **Reason**: The content of the page is not clear enough, also the feature selection should be exclusively done on the previous screen.
+ - **Resolution**: Set this page only as an info screen only.
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](/img/2.png)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
- 
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
-
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
- ---
+ - **Reference**: #2 at 01:55
+ - **Feedback**: The #2 participant is confused
+ - **Incidence**: The participant expected that the promo is selected whenever the button is pressed, but when the screen is moved to the info screen after pressing the promo button and the participant pressed the back button, the promo is not selected. 
+ - **Reason**: The application flow doesn't factor in the possibility of using the back button
+ - **Resolution**: Factor in the back button.
 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
