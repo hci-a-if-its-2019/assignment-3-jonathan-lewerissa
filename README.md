@@ -119,15 +119,21 @@
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
+<!-- 
 > Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
+> Please make sure the any texts on the sketch are readable. 
+-->
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](/img/lo-fi.jpg)
 
 ### Design Rationale
+<!--
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
+-->
+
+Based on the usabilty evaluation, I have learned that when a user selects a feature, that feature should be immediately selected to avoid user confusion. If not, then provide user feedback to inform the user. In the new design, I have simplified the process of selecting a promo program and moved the information page to a modal based page to improve user experience and flow.
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
