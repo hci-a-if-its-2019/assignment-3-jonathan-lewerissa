@@ -39,35 +39,58 @@
 - Rarely a user of marketplace app
 
 ### 2. Evaluation Script
-<!-- > Write the questions you ask and the instructions you use to direct the participants on what to do.
+<!-- 
+> Write the questions you ask and the instructions you use to direct the participants on what to do.
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants. -->
+> Note that the evaluation script must include exactly what you plan to say to the participants. 
+-->
+
 1. Finding the menu and making a transaction for topping up the mobile phone credit.
 2. Using promo voucher for transaction.
 
 
 ### 3. Transcript
-<!-- > Provide a summary of what the participant did and said, and what you did and said.
+<!--
+> Provide a summary of what the participant did and said, and what you did and said.
 > If at some points you have to help the participants, because they cannot figure out what to do,
 > that scene must be included in the transcript.
 > It is not necessary to write down every word the participant said,
 > just what is interesting and useful.
 > Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers. -->
+> Remember to supplement the transcript with time-codes or line-numbers. 
+-->
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
-
+```
+00:30 - A: Jadi ini aplikasi yang akan kamu coba, sekarang kamu diminta untuk membeli pulsa.
+00:35 - A: Untuk sementara tombol input untuk nomor HP nya belum bisa digunakan (tidak ada fiturnya di alat desainnya)
+00:45 - A: Untuk pembeliannya coba dipilih jumlah harganya.
+00:50 - B: Untuk harganya terserah?
+00:50 - A: Iya, untuk harganya terserah, sementara coba 20 ribu
+01:15 - A: Kemudian, coba pilih fitur pembayaran yang ingin digunakan
+01:20 - B: Oke, metode pembayaran sudah dipilih. Langsung ada promonya ya?
+01:25 - A: Iya betul, kalau misal promo yang digunakan ingin diganti bagaimana?
+01:40 - B: Oke, ini tulisan untuk apa ya? (deskripsi lorem ipsum untuk penjelasan promo)
+01:45 - A: Itu fungsi untuk penjelasan promonya
+01:55 - B: Oke, coba bayar. Eh, tapi tidak bisa
+02:00 - B: (Mencoba update metode pembayaran)
+02:05 - B: (Menekan tombol bayar)
+02:10 - A: Oke, setelah ini seharusnya akan menunggu status pembayaran berhasil atau tidak
+```
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
-
+```
+00:20 - A: Oke, jadi ini sementara aplikasi yang akan dicoba. Jadi, yang perlu dikerjakan adalah membeli pulsa. Untuk fitur pengisian nomor anggap saja sudah terisi, karena fitur pengisian nomor sementara belum ada.
+00:40 - B: Iya betul, ini ditekan belum keluar apa-apa.
+01:00 - B: Oke, setelah itu coba pilih nilainya, tapi di bagian mana ya?
+01:20 - B: Oke ketemu untuk pilih jumlah nilainya.
+01:30 - A: Untuk sementara pilih nilai 20 ribu saja.
+01:40 - A: Kemudian coba juga jika pembelian ingin menggunakan promo.
+01:55 - B: (memilih promo, membaca penjelasannya, tetapi kemudian menekan tombol kembali, dengan asumsi promo sudah terpilih)
+02:20 - B: Oke, kemudian pilih ini, payment method. (kemudian memilih bank yang akan digunakan)
+02:50 - B: Oke, kemudian bayar.
+03:00 - A: Oke, setelah ini seharusnya akan menunggu status pembayaran berhasil atau tidak
+```
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
