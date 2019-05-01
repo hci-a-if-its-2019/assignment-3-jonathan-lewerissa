@@ -136,5 +136,8 @@
 Based on the usabilty evaluation, I have learned that when a user selects a feature, that feature should be immediately selected to avoid user confusion. If not, then provide user feedback to inform the user. In the new design, I have simplified the process of selecting a promo program and moved the information page to a modal based page to improve user experience and flow.
 
 ### High-Fidelity Interactive-Prototype
+<!--
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+-->
+https://invis.io/GRRT7KE7JUY
