@@ -5,20 +5,20 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
+<!-- > Record a video (screen-recording is preferred) while you operating your prototype.
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
+> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report. -->
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Prototype Video](http://img.youtube.com/vi/NMy1xyFa9Pc/0.jpg)](https://www.youtube.com/watch?v=NMy1xyFa9Pc)
 
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
+<!-- > In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
 > Invite the participant from your previous CI to test the prototype.
 > You also need to invite one more novice participant.
 > As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
+> You can benefit from the videotape while writing your `Recording Transcript` later. -->
 
 ### 1. Brief Description of Participants
 > Describe your participants in bullets or sentences.
@@ -27,28 +27,34 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- Female
+- Less than 20 years old
+- Quite good with mobile device and its functionality
+- Have been using marketplace app before
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- Female
+- More than 50 years old
+- A novice with mobile device and its functionality
+- Rarely a user of marketplace app
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
+<!-- > Write the questions you ask and the instructions you use to direct the participants on what to do.
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+> Note that the evaluation script must include exactly what you plan to say to the participants. -->
+1. Finding the menu and making a transaction for topping up the mobile phone credit.
+2. Using promo voucher for transaction.
+
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
+<!-- > Provide a summary of what the participant did and said, and what you did and said.
 > If at some points you have to help the participants, because they cannot figure out what to do,
 > that scene must be included in the transcript.
 > It is not necessary to write down every word the participant said,
 > just what is interesting and useful.
 > Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
+> Remember to supplement the transcript with time-codes or line-numbers. -->
 
 #### a. Transcript with Participant 1
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
